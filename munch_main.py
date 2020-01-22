@@ -1,6 +1,6 @@
 #Манчкин в консоли
 import random
-
+#changes for dev branch
 class Monster :
     def __init__(self, name):
         self.name=name
